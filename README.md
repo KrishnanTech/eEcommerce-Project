@@ -1,2 +1,2 @@
 # eEcommerce-Project
-A small sample about my previous ecomerce project
+A small sample about my previous ecommerce project
