@@ -4,6 +4,8 @@ public class EditLead {
 
 	public static void main(String[] args) {
 		System.out.println("EditLead");
+		System.out.println("EditLead");
+		System.out.println("EditLead");
 	}
 	
 }
